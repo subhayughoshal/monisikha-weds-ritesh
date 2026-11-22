@@ -4,7 +4,7 @@ window.WEDDING = {
   bride: "Monisikha",
   weddingDate: "2026-12-13T00:00:00+05:30",
   dateLabel: "13 & 15 DECEMBER 2026",
-  invitationMessage: "Together with our families, we cordially request the pleasure of your gracious presence and blessings on the auspicious occasion of the marriage of Monisikha with Ritesh.",
+  invitationMessage: "Sri Saroj Kumar Roy and Smt. Tutul Roy request the pleasure of your gracious presence on the auspicious occasion of the Wedding Ceremony of their elder daughter, Monisikha, with Ritesh",
   familyLine: "With the blessings of the Roy and Ghosh families",
   story: "Two families, two journeys, and a beautiful new beginning. Monisikha and Ritesh invite you to be part of the celebrations as they begin this new chapter together.",
   venueName: "Purulia Heritage, Banerjee Cottage, Simulia",
